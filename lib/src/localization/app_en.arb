@@ -1,0 +1,6 @@
+{
+  "appTitle": "consumo_api",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
